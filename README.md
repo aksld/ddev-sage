@@ -15,7 +15,7 @@ Edit .ddev/config.yaml and add :
 ```
 web_extra_exposed_ports:
   - name: bud
-    container_port: 8000
+    container_port: 3000
     http_port: 3000
     https_port: 3001
 ```
